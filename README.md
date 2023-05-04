@@ -27,3 +27,9 @@ The link to the full dashboard can be found here: https://dataplatform.cloud.ibm
 - Most respondents appear to be young developers within their 20s.
 - The level of education appears to differ between men and women drastically, however this is most likely due to the major underrepresentation of women in development and respondents. 
 
+## Presentation 
+The download link to my presentation can be found here: https://acrobat.adobe.com/id/urn:aaid:sc:US:1c6f2e6f-e5e0-4b7c-83f4-774361e09d97
+Essentially, it will highlight the main points of my findings, explain more in depth about the entire project.
+
+## Conclusion
+All in all, the findings appear to be interesting, it gives insight about the most popular languages, future languages that are predicted to be "rising" in popularity. Incidentally, it can also semi-detect the fall of languages over time such as MySQL, though not obselete, it has seen a major decrease in respondents wanting to learn it for 2020 according to the sample. The point of this project is to find languages that companies or developers are expected to require you have as well as show us the demographics of the average Stack Overflow user in terms of developers, where they come from and what gender they are. 
