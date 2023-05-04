@@ -28,7 +28,7 @@ The link to the full dashboard can be found here: https://dataplatform.cloud.ibm
 - The level of education appears to differ between men and women drastically, however this is most likely due to the major underrepresentation of women in development and respondents. 
 
 ## Presentation 
-The PDF link to my presentation can be found here: https://acrobat.adobe.com/id/urn:aaid:sc:US:1c6f2e6f-e5e0-4b7c-83f4-774361e09d97
+The PDF link to my presentation can be found here: https://acrobat.adobe.com/id/urn:aaid:sc:US:fa10f2df-19fb-47dc-b961-0dff05fb798e
 Essentially, it will highlight the main points of my findings, explain more in depth about the entire project.
 
 ## Conclusion
